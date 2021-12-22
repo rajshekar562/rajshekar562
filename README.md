@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analysis,Business Analyst and Machine Learning
 - 🌱 I’m currently learning DataScience
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...rajsheakrpatil562@gmail.com
 
 <!---
 rajshekar562/rajshekar562 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
